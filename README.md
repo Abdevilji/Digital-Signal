@@ -22,4 +22,7 @@ In this we will see how sampling ,audio processing ,image processing and what di
    - FIR filters are commonly used in DSP for tasks such as low-pass filtering, high-pass filtering, band-pass filtering, and signal equalization.
    - They offer linear phase response, stability, and precise control over the frequency response but may require more computational resources compared to IIR filters.
 
+5. **Convolutions**:
+In DSP: In the context of DSP, convolution is often used to process signals by filtering them with a convolution kernel (also known as an impulse response or filter mask). This involves sliding the kernel over the signal and computing the sum of the element-wise products at each position, resulting in a filtered output signal.
+
 In summary, digital signal processing encompasses a wide range of techniques and applications, including sampling, audio processing, image processing, and the use of FIR filters. These tools and techniques are essential for manipulating and analyzing digital signals in various fields such as telecommunications, multimedia, biomedical engineering, and more.
